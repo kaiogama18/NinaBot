@@ -70,8 +70,29 @@ for item in json_names:
 
 
 
+# from selenium import webdriver
+# from selenium.webdriver.firefox.firefox_binary import FirefoxBinary
+# from selenium.webdriver.common.keys import Keys
+# from time import sleep
+# import json
+# import requests
 
 
+# send_mesage = "boa tarde, já comprou nossos produtos de atacado"
+# phone = "559284511344"
+
+
+# # https://api.whatsapp.com/send?phone=559284511344&text=oi
+# url_init = 'https://api.whatsapp.com/send?'
+# url_phone = 'phone=' + phone
+# url_text = '&text=' + send_mesage
+
+# url = url_init + url_phone + url_text
+# print('[Lepros] ---> nome do contato : ' + url )
+
+# binary = FirefoxBinary("C:\\Program Files\\Mozilla Firefox\\firefox.exe")
+# browser = webdriver.Firefox(firefox_binary=binary, executable_path=r"C:\\geckodriver.exe")
+# browser.get(url)
 
 
 
