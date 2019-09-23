@@ -2,16 +2,14 @@ from selenium import webdriver
 from selenium.webdriver.firefox.firefox_binary import FirefoxBinary
 from selenium.webdriver.common.keys import Keys
 from time import sleep
-import conect_what
 import json
-from bs4 import BeautifulSoup
+# from bs4 import BeautifulSoup
 import requests
 
 url = 'https://web.whatsapp.com'
-soup = BeautifulSoup(requests.get(url).content, 'html.parser')
+# soup = BeautifulSoup(requests.get(url).content, 'html.parser')
 
 binary = FirefoxBinary("C:\\Program Files\\Mozilla Firefox\\firefox.exe")
-
 # Criar instância do navegador
 browser = webdriver.Firefox(firefox_binary=binary, executable_path=r"C:\\geckodriver.exe")
 
@@ -50,7 +48,7 @@ def send_mesage(name, response) :
             bot_users[contact_name] = True
             contact_box.click()
             text_box = browser.find_element_by_class_name('_3u328')
-            text_box.send_keys(response + contact_name)
+            text_box.send_keys(response + contact_name + " o seu bem estar é a minha felicidade")
             text_box.send_keys(Keys.ENTER)
         else :
             browser.find_element_by_class_name('_2heX1').click()
@@ -62,7 +60,9 @@ def send_mesage(name, response) :
             
 
 for item in json_names:
-    send_mesage(item, "OI sou o bot e funciona! I am alive  ")
+    # send_mesage(item, "OI sou o bot e funciona! I am alive  ")    
+    send_mesage(item, "Como vai seu dia, A verdadeira alegria não é aquela que seu rosto mostra, mas a que você vive no seu coração e contagia todos à sua volta ")
+
 
 
 
