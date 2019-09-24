@@ -1,0 +1,1571 @@
+1569268433629	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\humano\\AppData\\Local\\Temp\\rust_mozprofile7Pt4I4"
+1569268434359	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1569268434360	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1569268434360	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569268434410	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569268437878	Marionette	INFO	Listening on port 64090
+1569268437945	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+[Parent 19628, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 19628, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, [Chilline 341
+d 8312, Chrome_Ch[Child ildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8312,[Parent 19628, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20328, C1569268446946	Marionette	INFO	Stopped listening on port 64090
+[GPU 14
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+924
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1569268572135	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\humano\\AppData\\Local\\Temp\\rust_mozprofileXNqVLH"
+1569268572867	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1569268572868	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1569268572868	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569268572868	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569268575922	Marionette	INFO	Listening on port 64251
+1569268575956	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+[Parent 19992, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_chann[Chel_iwin.ccl, line 341d 3
+344, Chrome_Ch[CihldThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3344, [Parent 19992, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15641569268585597	Marionette	INFO	Stopped listening on port 64251
+[GPU 12696, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1569268612700	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\humano\\AppData\\Local\\Temp\\rust_mozprofileTXKV2N"
+1569268613377	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1569268613377	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1569268613377	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569268613377	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569268616534	Marionette	INFO	Listening on port 64307
+1569268616622	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+[Parent 3616, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 3616, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrom[e/comChild 15600, Chrome_Childmon/Tiphreac_chad] WAnnel_win.cc, line 341RNIN
+G: pipe error: 1[Child 1909: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15600, Ch[Parent 3616, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15148, Chrome1569268627482	Marionette	INFO	Stopped listening on port 64307
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 7312, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1569268642136	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\humano\\AppData\\Local\\Temp\\rust_mozprofile45QVd7"
+1569268642824	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1569268642824	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1569268642824	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569268642824	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569268645866	Marionette	INFO	Listening on port 64353
+1569268646028	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.33a5aaab8c189f3ff681.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.33a5aaab8c189f3ff681.js, line 2: unreachable code after return statement
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.33a5aaab8c189f3ff681.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.33a5aaab8c189f3ff681.js, line 2: unreachable code after return statement
+[Parent 20784, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 20784, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 20784, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 20784, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 20784, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 20784, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 20784, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20364, Chrome_ChildThread] WAR[Child 20496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_cha[Child 20568, Chrome_ChildThreannel_win.ccd] WA, lineRN 341
+ING: pipe erro[rChi: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2[Parent 20784, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14148, Chro1569269099859	Marionette	INFO	Stopped listening on port 64353
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 4296, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+eAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.33a5aaab8c189f3ff681.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.33a5aaab8c189f3ff681.js, line 2: unreachable code after return statement
+[Parent 17960, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 17960, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 17960, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 17960, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 17960, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 17960, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2208,[Child 21112, Chrome_ChildThread] W[AChilRdN I1N0020,G Chr:o mpipe error: 109: filee _z:/tCahsikldTh_r1e5a6d6]8 6WARNI43NG: pipe error: 109: f3i6l/eb uzi:l/dtask_1566864336/build/src/ipc/chromium/src/chrome/common//ipc_channel_win.cc, line 341
+src/ipc/c[hCrhild 10020, omium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21112, Chro[Parent 17960, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20776, 1569271003764	Marionette	INFO	Stopped listening on port 64461
+[GPU 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1569343415124	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\humano\\AppData\\Local\\Temp\\rust_mozprofileT2ZVLV"
+1569343417697	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1569343417697	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1569343417697	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569343417697	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569343420994	Marionette	INFO	Listening on port 50869
+1569343421148	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 19584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/co[mChild 17m7o2n,/ipc_c hannel_wCihnrome._cCc, lineh 3i41
+ldThread] WARNIN[CGh:ild pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1772, C[Child 9328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9328, Chrconsole.error: (new Error("Transaction canceled due to a closed connection.", "resource://gre/modules/Sqlite.jsm", 613))
+1569343525500	Marionette	INFO	Stopped listening on port 50869
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1569343530490	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\humano\\AppData\\Local\\Temp\\rust_mozprofileyzXz4r"
+1569343531237	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1569343531237	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1569343531237	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569343531237	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569343534678	Marionette	INFO	Listening on port 50976
+1569343534807	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+1569343558648	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\humano\\AppData\\Local\\Temp\\rust_mozprofileY6XOaj"
+1569343559673	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1569343559673	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1569343559673	addons.webextension.screenshots@mozilla.org	WARN	Loadin[Parent 18476, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/iJavaScript error: resource://gre/modules/XULStore.js1569343563569	Marionette	INFO	Stopped listening on1569343564716	Marionette	INFO	Listening on port 51022
+1569343565178	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.33a5aaab8c189f3ff681.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.33a5aaab8c189f3ff681.js, line 2: unreachable code after return statement
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:914:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/main.js:1402:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): node is null"
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+Handler function _httpResponseExaminer threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.visitOriginalResponseHeaders]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _httpResponseExaminer :: line 352"  data: no]
+Stack: _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:352:15
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
+_serviceWorkerRequest@resource://devtools/server/actors/network-monitor/network-observer.js:283:10
+Line: 352, column: 0
+console.error: ({})
+[Child 18464, MediaDecoderStateMachine #1] WARNING: Decoder=17b4609d000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file z:/task_1566864336/build/src/dom/media/MediaDecoderStateMachine.cpp, line 352
+[Child 18464, MediaDecoderStateMachine #1] WARNING: Decoder=17b4609d000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file z:/task_1566864336/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3309
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+[Parent 9084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2644, Chro[mCe_ChhiilldThreadd ]1 8W4A64, Chrome_ChildThread]R WARNING: NING:pipe error: 109: file z:/task_ 1p566864336/build/src/iipcp/chromiume/ serrorr: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2644[Parent 9084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18500, C1569343867228	Marionette	INFO	Stopped listening on port 51022
+[GPU 16272, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1569343873210	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\humano\\AppData\\Local\\Temp\\rust_mozprofileeI1Q2j"
+1569343873917	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1569343873918	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1569343873918	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569343873918	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569343877131	Marionette	INFO	Listening on port 51213
+1569343877537	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+[Parent 3068, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 3068, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc[_Cchhanneil_win.lcc, lidne 341 
+6800, Chro[Childm e_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6800, Ch[Parent 3068, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9916, Chrome1569343891214	Marionette	INFO	Stopped listening on port 51213
+[GPU 552, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1569343900067	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\humano\\AppData\\Local\\Temp\\rust_mozprofileXB9lUf"
+1569343900708	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1569343900708	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1569343900708	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569343900708	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569343903882	Marionette	INFO	Listening on port 51260
+1569343903889	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+[Parent 4576, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build[/Parenstrc/ipc/chromium/s 457rc6/chrom,e/comm on/ipc_channel_wiGecko_IOThread] WARNING:n pipe erro.cc, lr: 1ine 34019
+: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13248,JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 680: TypeError: this.tablesData[table] is undefined
+[Parent 4576, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14252, Ch1569343915431	Marionette	INFO	Stopped listening on port 51260
+[GPU 1
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1569343926482	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\humano\\AppData\\Local\\Temp\\rust_mozprofileiIm6j6"
+1569343927210	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1569343927211	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1569343927211	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569343927211	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569343930126	Marionette	INFO	Listening on port 51308
+1569343930315	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.33a5aaab8c189f3ff681.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.33a5aaab8c189f3ff681.js, line 2: unreachable code after return statement
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 18048, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2740, Ch[Parent 18048, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win[Chil.cdc ,9 line 341
+004, Chrome_Child[ChiThrleda 17d] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9004, Chr[Parent 18048, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14984, Ch1569343960380	Marionette	INFO	Stopped listening on port 51308
+[G
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1569343968306	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\humano\\AppData\\Local\\Temp\\rust_mozprofileYG753R"
+1569343968897	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1569343968897	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1569343968897	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569343968897	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569343971808	Marionette	INFO	Listening on port 51369
+1569343972123	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.33a5aaab8c189f3ff681.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.33a5aaab8c189f3ff681.js, line 2: unreachable code after return statement
+[Parent 10344, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:914:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/main.js:1402:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): node is null"
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:914:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/main.js:1402:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): node is null"
+[Parent 10344, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 10344, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 10344, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 10344, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3316, Chrome_ChildThread] WARN[Child 11812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11812, Chr[Parent 10344, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8824, C1569344241647	Marionette	INFO	Stopped listening on port 51369
+[GPU
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1569344246395	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\humano\\AppData\\Local\\Temp\\rust_mozprofileo8ZkCA"
+1569344247198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1569344247198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1569344247198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569344247198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569344250403	Marionette	INFO	Listening on port 51462
+1569344250715	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.33a5aaab8c189f3ff681.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.33a5aaab8c189f3ff681.js, line 2: unreachable code after return statement
+[Parent 12040, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12040, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13284[Parent 12040, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4452, Chrome1569344279612	Marionette	INFO	Stopped listening on port 51462
+[GPU 180
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1569344300523	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\humano\\AppData\\Local\\Temp\\rust_mozprofilefNQWcW"
+1569344301162	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1569344301162	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1569344301162	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569344301162	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569344304197	Marionette	INFO	Listening on port 51529
+1569344304342	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.33a5aaab8c189f3ff681.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.33a5aaab8c189f3ff681.js, line 2: unreachable code after return statement
+[Parent 9984, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341[Child
+ 14716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1[[Parent 9984, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12964, 1569346465053	Marionette	INFO	Stopped listening on port 51529
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+bout:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569346465736	Marionette	INFO	Listening on port 50806
+1569346466078	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.33a5aaab8c189f3ff681.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.33a5aaab8c189f3ff681.js, line 2: unreachable code after return statement
+[Parent 15384, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 15384, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 15384, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10496, Chrome_ChildThread] WAR[Child 11544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11544, Ch[Child 17464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17464, Chrom1569346989352	Marionette	INFO	Stopped listening on port 50806
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1569347065360	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\humano\\AppData\\Local\\Temp\\rust_mozprofileD4RxAR"
+1569347065950	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1569347065950	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1569347065950	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569347065950	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569347068673	Marionette	INFO	Listening on port 50915
+1569347068678	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.33a5aaab8c189f3ff681.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.33a5aaab8c189f3ff681.js, line 2: unreachable code after return statement
+[Parent 12872, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12872, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_w[Chiild 46n16, Chrome._cc, liChildne 341Thr
+ead] WARNING: pipe error: 109: file z:/task_1566864336/build/sr[cChild 10/876, Chrome_ChildThread] WARNING:ip pipe errc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4616, C[Parent 12872, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10408, Chr1569347107153	Marionette	INFO	Stopped listening on port 50915
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1569354133586	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\humano\\AppData\\Local\\Temp\\rust_mozprofileFWOzK3"
+1569354134430	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1569354134431	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1569354134431	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569354134431	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569354138471	Marionette	INFO	Listening on port 62142
+1569354138517	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.33a5aaab8c189f3ff681.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.33a5aaab8c189f3ff681.js, line 2: unreachable code after return statement
+[Parent 15584, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 15584, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chro[Childm i3648, Chrum/srocm/chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3648, Chrome_ChildThread] WARNING:[Parent 15584, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13844, Chro1569354191816	Marionette	INFO	Stopped listening on port 62142
+[GPU 11596, C
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+h
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5128: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+flineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.33a5aaab8c189f3ff681.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.33a5aaab8c189f3ff681.js, line 2: unreachable code after return statement
+[Child 20924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341[
+Child 20940, Chrome_ChildThread] WARNING: pipe error: 109: [fChiildl e2 0z9:2/4t,a sCkh_r1o5m6e_6C8h6ildThread] WA4336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 680: TypeError: this.tablesData[table] is undefined
+[Parent 8612, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21181569354191459	Marionette	INFO	Stopped listening on port 62194
+[GPU
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ 13204
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1569354429498	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\humano\\AppData\\Local\\Temp\\rust_mozprofileJWNKgI"
+1569354430165	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1569354430165	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1569354430165	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569354430166	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1569354433134	Marionette	INFO	Listening on port 62267
+1569354433394	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 177: TypeError: docShell.failedChannel is null
+JavaScript error: resource:///actors/OfflineAppsChild.jsm, line 32: TypeError: manifestURI is null
+JavaScript warning: https://web.whatsapp.com/app.33a5aaab8c189f3ff681.js, line 2: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.33a5aaab8c189f3ff681.js, line 2: unreachable code after return statement
+[Parent 16432, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 16432, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7856,[Child 18192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 16432, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11684, C1569354519274	Marionette	INFO	Stopped listening on port 62267
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 6352
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7548, Chr1569354463447	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1483:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1483:17
+makeAddonVisible@XPIDatabase.jsm:2286:10
+addToDatabase@XPIDatabase.jsm:2213:12
+install@XPIInstall.jsm:4343:27
+_activateAddon@XPIInstall.jsm:4370:7
+1569354463447	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1483:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1483:17
+addToDatabase@XPIDatabase.jsm:2216:10
+install@XPIInstall.jsm:4343:27
+_activateAddon@XPIInstall.jsm:4370:7
+1569354463448	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1483:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1483:17
+syncWithDB@XPIProvider.jsm:671:25
+addAddon@XPIProvider.jsm:807:14
+addAddon@XPIProvider.jsm:1603:21
+install@XPIInstall.jsm:4348:17
+_activateAddon@XPIInstall.jsm:4370:7
+1569354463481	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1483:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1483:17
+makeAddonVisible@XPIDatabase.jsm:2286:10
+addToDatabase@XPIDatabase.jsm:2213:12
+install@XPIInstall.jsm:4343:27
+_activateAddon@XPIInstall.jsm:4370:7
+1569354463481	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1483:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1483:17
+addToDatabase@XPIDatabase.jsm:2216:10
+install@XPIInstall.jsm:4343:27
+_activateAddon@XPIInstall.jsm:4370:7
+1569354463482	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1483:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1483:17
+syncWithDB@XPIProvider.jsm:671:25
+addAddon@XPIProvider.jsm:807:14
+addAddon@XPIProvider.jsm:1603:21
+install@XPIInstall.jsm:4348:17
+_activateAddon@XPIInstall.jsm:4370:7
+1569354463502	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1483:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1483:17
+makeAddonVisible@XPIDatabase.jsm:2286:10
+addToDatabase@XPIDatabase.jsm:2213:12
+install@XPIInstall.jsm:4343:27
+_activateAddon@XPIInstall.jsm:4370:7
+1569354463502	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1483:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1483:17
+addToDatabase@XPIDatabase.jsm:2216:10
+install@XPIInstall.jsm:4343:27
+_activateAddon@XPIInstall.jsm:4370:7
+1569354463503	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1483:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1483:17
+syncWithDB@XPIProvider.jsm:671:25
+addAddon@XPIProvider.jsm:807:14
+addAddon@XPIProvider.jsm:1603:21
+install@XPIInstall.jsm:4348:17
+_activateAddon@XPIInstall.jsm:4370:7
+1569354463518	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1483:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1483:17
+makeAddonVisible@XPIDatabase.jsm:2286:10
+addToDatabase@XPIDatabase.jsm:2213:12
+install@XPIInstall.jsm:4343:27
+_activateAddon@XPIInstall.jsm:4370:7
+1569354463518	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1483:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1483:17
+addToDatabase@XPIDatabase.jsm:2216:10
+install@XPIInstall.jsm:4343:27
+_activateAddon@XPIInstall.jsm:4370:7
+1569354463518	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1483:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1483:17
+syncWithDB@XPIProvider.jsm:671:25
+addAddon@XPIProvider.jsm:807:14
+addAddon@XPIProvider.jsm:1603:21
+install@XPIInstall.jsm:4348:17
+_activateAddon@XPIInstall.jsm:4370:7
+1569354463534	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1483:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1483:17
+makeAddonVisible@XPIDatabase.jsm:2286:10
+addToDatabase@XPIDatabase.jsm:2213:12
+install@XPIInstall.jsm:4343:27
+_activateAddon@XPIInstall.jsm:4370:7
+1569354463534	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1483:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1483:17
+addToDatabase@XPIDatabase.jsm:2216:10
+install@XPIInstall.jsm:4343:27
+_activateAddon@XPIInstall.jsm:4370:7
+1569354463535	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1483:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1483:17
+syncWithDB@XPIProvider.jsm:671:25
+addAddon@XPIProvider.jsm:807:14
+addAddon@XPIProvider.jsm:1603:21
+install@XPIInstall.jsm:4348:17
+_activateAddon@XPIInstall.jsm:4370:7
+1569354463574	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1483:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1483:17
+makeAddonVisible@XPIDatabase.jsm:2286:10
+addToDatabase@XPIDatabase.jsm:2213:12
+install@XPIInstall.jsm:4343:27
+_activateAddon@XPIInstall.jsm:4370:7
+1569354463574	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1483:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1483:17
+addToDatabase@XPIDatabase.jsm:2216:10
+install@XPIInstall.jsm:4343:27
+_activateAddon@XPIInstall.jsm:4370:7
+1569354463575	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1483:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1483:17
+syncWithDB@XPIProvider.jsm:671:25
+addAddon@XPIProvider.jsm:807:14
+addAddon@XPIProvider.jsm:1603:21
+install@XPIInstall.jsm:4348:17
+_activateAddon@XPIInstall.jsm:4370:7
+[Parent 19348, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13364, Chrome_ChildThre
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

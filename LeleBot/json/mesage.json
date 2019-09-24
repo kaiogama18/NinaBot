@@ -1,0 +1,19 @@
+{
+        "intents": [{
+                        "mesage": "Já comprou nossos produtos de atacado"
+
+                },
+                {
+                        "mesage": "Está precisando de ajuda? Estou aqui"
+
+                },
+                {
+                        "mesage": "O rato roeu a roupa do rei de Roma"
+
+                },
+                {
+                        "mesage": "Está com problema de saúde? Posso marca um consulta"
+
+                }
+        ]
+}
