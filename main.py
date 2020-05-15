@@ -54,7 +54,7 @@ def send_mesage(name, response) :
             browser.find_element_by_class_name('_2heX1').click()
             print('[Lepros] ---> nome do contato : ' 
                 + contact_name + 
-                " não é igual ao nome do contato vindo do json :" 
+                " não é igual ao nome do contato vindo do json teste :" 
                 + name )    
             print("não encontrou o nome")
             
