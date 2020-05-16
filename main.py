@@ -11,6 +11,8 @@ url = 'https://web.whatsapp.com'
 
 binary = FirefoxBinary("C:\\Program Files\\Mozilla Firefox\\firefox.exe")
 # Criar instância do navegador
+# Criar instância do navegador
+# Criar instância do navegador
 browser = webdriver.Firefox(firefox_binary=binary, executable_path=r"C:\\geckodriver.exe")
 
 with open("json/phones.json") as file:
