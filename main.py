@@ -30,6 +30,9 @@ for intent in data["intents"]:
         labels.append(intent["phone"]) 
 
 # Selenium irá entrar no whats e aguardar 10 segundos até o dom estiver pronto.
+# Selenium irá entrar no whats e aguardar 10 segundos até o dom estiver pronto.
+# Selenium irá entrar no whats e aguardar 10 segundos até o dom estiver pronto.
+# Selenium irá entrar no whats e aguardar 10 segundos até o dom estiver pronto.
 browser.get(url)
 sleep(10)
 
