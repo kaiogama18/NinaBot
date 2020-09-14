@@ -1,7 +1,6 @@
 NinaBot
 ======================
 
-### Contributors
 A chatbot built in python using Selenium module.
 
 <a alt="Linkedin" href="https://www.linkedin.com/in/kaiogama/"><img src="https://img.shields.io/badge/Linkedin-Kaio%20B.%20Gama-blue?logo=linkedin"/></a>
