@@ -9,7 +9,7 @@ A chatbot built in python using Selenium module.
 
 <p align="center">
   <a href="https://www.buritech.com.br">
-    <img alt="logo Buritech" style="fill: blue;" src="http://www.buritech.com.br/site/logo.png" width="50%" />
+    <img alt="logo Buritech" style="fill: blue;" src="https://drive.google.com/file/d/1ZHWWuMD_FzdypsuVuHrYX1fi2jCZtVq7/view?usp=sharing" width="50%" />
   </a>
 </p>
 <p align="center">
